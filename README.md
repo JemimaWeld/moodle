@@ -10,10 +10,10 @@
    <br>
 Los grupos encargados de conseguir la informacion:
    <br>
-a) Los datos de los profesores y en cual curso son maestros guias y sus clases (Grupo: Profesores)
-b) Cursos (Grupo: Alumnos)
-c) Clases y Horarios (Grupo: Administrador)
-d) La seccion de paneles (index): (Grupo: Mensajes)
+a) Los datos de los profesores y en cual curso son maestros guias y sus clases (Grupo: Profesores)<br>
+b) Cursos (Grupo: Alumnos)<br>
+c) Clases y Horarios (Grupo: Administrador)<br>
+d) La seccion de paneles (index): (Grupo: Mensajes)<br>
    <br>
 *Nota*: Todos deben inicar session en la cuenta de admin, para poder agregar los datos.
  <br>Correo: admin@admin.com
